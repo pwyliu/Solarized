@@ -20,7 +20,8 @@
 				<key>gutter</key>
 				<string>#073642</string>
 				<key>invisibles</key>
-				<string>#586e75</string>
+				<!-- http://www.color-hex.com/color/586e75 -->
+				<string>#3d4d51</string>
 				<key>lineHighlight</key>
 				<string>#1CD1FF12</string>
 				<key>misspelling</key>
